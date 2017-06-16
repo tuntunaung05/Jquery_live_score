@@ -16,7 +16,6 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - -
 	<div class='container1'> </div> 
 	
-	<div class='container1'> </div> 
 </center>
 
 
