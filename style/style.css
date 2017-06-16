@@ -1,0 +1,24 @@
+	body
+	{
+		background-color:#ffffff;
+		font-family:"Arial Black", Gadget, sans-serif;color:#585858;
+		font-size:30px;
+		
+	}
+	.first_column
+	{
+		font-family:Arial, Helvetica, sans-serif;color:#000000;
+		font-size:30px;
+		
+	}
+	.second_column
+	{
+		font-family:"Arial Black", Gadget, sans-serif;color:#585858;
+		font-size:30px;
+		
+	}
+	table
+	{
+		
+		border-spacing: 10px;
+	}
